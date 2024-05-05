@@ -1,0 +1,15 @@
+.heading{
+    width: 100%;
+    margin:0;
+    font-size: 25px;
+    font-weight: bolder;
+}
+body{
+    background-size: cover;
+}
+.status{
+    margin-right: 5px;
+}
+.remote{
+    border: 3px black;
+}
